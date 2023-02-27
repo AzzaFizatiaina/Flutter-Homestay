@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "466969163669",
+    "project_id": "homestay-754e7",
+    "storage_bucket": "homestay-754e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466969163669:android:1202fb11dfabe37288a89c",
+        "android_client_info": {
+          "package_name": "com.example.homestay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466969163669-8kbr2h53h4ijett18atlnhk66upim94c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW798Ae8-nk0QfeaNosQyBbctWKjYEwNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466969163669-8kbr2h53h4ijett18atlnhk66upim94c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
